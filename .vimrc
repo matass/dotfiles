@@ -97,5 +97,3 @@ nnoremap <leader>f :Grepper -tool ag<cr>
 nmap <Backspace> :bprevious<CR>
 " next buffer
 nmap <S-Backspace> :bnext<CR>
-
-
